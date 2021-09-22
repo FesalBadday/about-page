@@ -1,0 +1,111 @@
+body {
+  background-color: lightblue;
+  margin: 0;
+}
+
+nav {
+  display: flex;
+  justify-content: space-between;
+  background-color: lightgrey;
+  font-family: 'Lemonada', cursive;
+}
+
+nav li {
+  padding: 1rem;
+  font-weight: bold;
+  /* clamp(MIN, VAL, MAX) */
+  font-size: clamp(1rem, 4vw, 3rem);
+}
+
+nav a:hover {
+  opacity: 0.6;
+  text-decoration: underline;
+  text-decoration-style: wavy;
+}
+
+span {
+  /* clamp(MIN, VAL, MAX) */
+  font-size: clamp(1rem, 2vw, 2rem);
+}
+
+.logo {
+  display: flex;
+  align-items: center;
+  padding: 1rem;
+}
+
+a {
+  text-decoration: none;
+  color: #0075b2;
+}
+
+ul {
+  list-style-type: none;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: flex-end;
+}
+
+h1 {
+  text-align: center;
+  /* clamp(MIN, VAL, MAX) */
+  font-size: clamp(2rem, 5vw, 4rem);
+  font-family: 'Bevan', cursive;
+}
+
+h1:hover {
+  color: #0075b2;
+}
+
+section {
+  display: flex;
+  align-items: center;
+  justify-content: space-evenly;
+  flex-wrap: wrap;
+  padding: 1rem 0;
+  font-family: 'Lemonada', cursive;
+}
+
+section img {
+  max-width: 40%;
+}
+
+img {
+  width: 100%;
+}
+
+section p {
+  /* clamp(MIN, VAL, MAX) */
+  font-size: clamp(1rem, 1.6vw, 1.4rem);
+  min-width: 20ch;
+  max-width: 75ch;
+}
+
+em, h3 {
+  font-weight: bold;
+  /* clamp(MIN, VAL, MAX) */
+  font-size: clamp(1.2rem, 2.2vw, 2rem);
+  color: #0075b2;
+}
+
+.ref {
+  display: flex;
+  justify-content: center;
+  /* clamp(MIN, VAL, MAX) */
+  font-size: clamp(0.8rem, 1.4vw, 1.2rem);
+}
+
+.ref img:hover {
+  opacity: 0.5;
+}
+
+footer {
+  margin-top: auto;
+  font-family: 'Lemonada', cursive;
+  text-align: center;
+  /* clamp(MIN, VAL, MAX) */
+  font-size: clamp(1rem, 1.6vw, 1.4rem);
+  padding: 0.2rem;
+  background-color: black;
+  color: ghostwhite;
+}
