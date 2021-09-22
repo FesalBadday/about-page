@@ -13,6 +13,10 @@
  - Carizzle provides motor vehicle repair and tuning services for cars in Calgary. It consists of a combined 40 years of experience in the automotive industry.
  - Carizzle is professional in giving the dash a quick wipe or changing a burnt-out light bulb, repairs or tuning with professionalism as well.
 
+**Issues :**
+
+ - I was having an issue with my logo's text leaving a white gap on the right of my nav when I open the page from my phone. I fixed the issue by using a clamp to make the text smaller on small screens.
+
 ---
 
 ## Attributions :
