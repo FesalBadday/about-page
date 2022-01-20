@@ -4,9 +4,9 @@
 
 **Author :** Fesal Badday
 
-**Repo :** [https://github.com/FesalBadday/cpnt260-a1](https://github.com/FesalBadday/cpnt260-a1)
+**Repo :** [Github Repo](https://github.com/FesalBadday/about-page)
 
-**Site :** [https://FesalBadday.github.io/cpnt260-a1/](https://FesalBadday.github.io/cpnt260-a1/)
+**Site :** [Github Pages](https://FesalBadday.github.io/about-page)
 
 **Information :**
 
