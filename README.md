@@ -23,5 +23,5 @@
 
 1. Logo & icons from [Icons8](https://icons8.com/).
 2. Panorama image from [WallpaperAccess](https://wallpaperaccess.com/dual-screen-car).
-3. Image of Mechanic % Team from [Pexels](https://www.pexels.com/).
+3. Image of Mechanic & Team from [Pexels](https://www.pexels.com/).
 4. Fonts from [Google Fonts](https://fonts.google.com/).
