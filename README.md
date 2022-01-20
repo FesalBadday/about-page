@@ -1,4 +1,4 @@
-# CPNT 260 Assignment 1 : About Page
+# About Page
 
 ---
 
